@@ -52,4 +52,4 @@ Desktop inventory management application built with Java, Swing, JDBC and MySQL.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/antonio-insana-9a65a6aa/) · [Email](mailto:ainsana95@gmail.com)
+[Portfolio](https://ainsana.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/antonio-insana-9a65a6aa/) · [Email](mailto:ainsana95@gmail.com)
