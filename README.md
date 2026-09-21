@@ -1,16 +1,55 @@
-## Hi there 👋
+# Antonio Insana
 
-<!--
-**ainsana/ainsana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate specialized in Cybersecurity, interested in junior roles in IT infrastructure, systems, networking and cybersecurity.
 
-Here are some ideas to get you started:
+I build hands-on projects to strengthen my experience with infrastructure monitoring, backend development, relational databases, containerization and automated testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### InfraWatch
+
+Backend-focused infrastructure monitoring platform for automated TCP monitoring and host health management.
+
+**Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker · pytest · GitHub Actions**
+
+- REST API for host and monitoring management
+- automated TCP service monitoring
+- host health states and transition events
+- persistent monitoring and event history
+- Docker Compose deployment
+- automated testing and CI
+
+[View InfraWatch](https://github.com/ainsana/infrawatch)
+
+### Java Inventory Management
+
+Desktop inventory management application built with Java, Swing, JDBC and MySQL.
+
+**Java · Swing · JDBC · MySQL · Maven · JUnit · GitHub Actions**
+
+- product and inventory CRUD operations
+- MVC and DAO architecture
+- filtering and sorting
+- CSV import and export
+- MySQL database management
+- automated testing and CI
+
+[View Java Inventory Management](https://github.com/ainsana/java-inventory-management)
+
+## Technical Focus
+
+**Systems & Infrastructure:** Windows, Linux fundamentals, virtual machines, infrastructure monitoring, PowerShell, Bash
+
+**Networking:** TCP/IP, TCP/UDP, DNS, DHCP, subnetting, NAT, TCP service monitoring
+
+**Backend & Programming:** Python, Java, FastAPI, REST APIs, OOP
+
+**Databases:** PostgreSQL, MySQL, SQL, SQLAlchemy, JDBC, Alembic
+
+**DevOps & Tools:** Docker, Docker Compose, Git, GitHub, GitHub Actions, Maven
+
+**Testing & Code Quality:** pytest, JUnit, Ruff
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/antonio-insana-9a65a6aa/) · [Email](mailto:ainsana95@gmail.com)
