@@ -1,6 +1,6 @@
 # Antonio Insana
 
-Computer Engineering graduate specialized in Cybersecurity, interested in junior roles in IT infrastructure, systems, networking and cybersecurity.
+Computer Engineering graduate specialized in Cybersecurity, interested in junior roles in IT infrastructure, systems, networking, cybersecurity and software development.
 
 I build hands-on projects to strengthen my experience with infrastructure monitoring, backend development, relational databases, containerization and automated testing.
 
